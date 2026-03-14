@@ -246,7 +246,7 @@ const styles = StyleSheet.create({
     marginLeft:'20%',
   },
   stepContainer: {
-    gap: 8,
+    gap: 7,
     marginBottom: 8,
   },
   reactLogo: {
