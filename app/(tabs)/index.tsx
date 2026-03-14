@@ -1,12 +1,11 @@
 
-import { Platform, StyleSheet } from 'react-native'; // This the  Importantion fo definitions
 import { HelloWave } from '@/components/hello-wave';
 import ParallaxScrollView from '@/components/parallax-scroll-view';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Link } from 'expo-router';
 import { useState } from 'react';
-import { TextInput, Button ,Image, TouchableOpacity,ImageBackground ,View} from 'react-native';
+import { Image, StyleSheet, TextInput, TouchableOpacity, View } from 'react-native'; // This the  Importantion fo definitions
 
 export default function App() {
 
@@ -266,7 +265,7 @@ const styles = StyleSheet.create({
     shadowColor:"#000",
     shadowOpacity:0.2,
     shadowRadius:10,
-    elevation: 5,
+    elevation: 4,
     width:'90%',
     maxWidth:400,
     alignSelf: "center",
