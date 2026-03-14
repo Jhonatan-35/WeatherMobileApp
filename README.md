@@ -1,50 +1,28 @@
-# Welcome to your Expo app 👋
+# WeatherMobileApp
+Mobile App by using  diferents lenguages progrmmings
+# Overview
+Mobile App Weather Project
+As a general description, the application is based on a weather search application, allowing users to enter any different city from around the world. It is based on interacting with images and colors, stylizing according to the weather, which is displayed with real-time icons. It also showcases and explores the weather of the world's best cities. It was created using different programming languages ​​such as JavaScript and React, among other major programming languages.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+The main purpose of this application is to make it easier for users to find out the real-time weather in other cities and countries around the world.
 
-## Get started
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+[Software Demo Video](https://www.youtube.com/watch?v=Dlalfq-mNP8)
 
-2. Start the app
+# Development Environment
 
-   ```bash
-   npx expo start
-   ```
+-React
+-Visual/studio
+-GitHub
+-Javscript
 
-In the output, you'll find options to open the app in a
+# Useful Websites
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+* [Javascript tutorial](https://www.youtube.com/watch?v=ykvz66BzXaQ&list=PLIygiKpYTC_6I5BcqEf8JROFt1gimcPU2)
 
-## Get a fresh project
+* [React](https://react.dev/learn)
 
-When you're ready, run:
+* [openWeather](https://openweathermap.org/guide)
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
